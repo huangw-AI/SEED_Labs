@@ -1,7 +1,7 @@
 # SEED_Labs
 SEED Labs at UOW
 
-## This lab was developed and conducted using the Ubuntu 20.04 SEED virtual machine (VM). You can download a pre-built image from the University CSE network labs and run it on the lab computers, or you may download and run the SEED VM on your own computer.
+This lab was developed and conducted using the Ubuntu 20.04 SEED virtual machine (VM). You can download a pre-built image from the University CSE network labs and run it on the lab computers, or you may download and run the SEED VM on your own computer.
 
 ## Acknowledgements
 •	The lab exercises are conducted as part of the world-renowned SEED Lab Project for cybersecurity education.
